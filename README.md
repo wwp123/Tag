@@ -1,7 +1,7 @@
 
 ![标签组件](./review.png)
 
-<a href="" target="_blank">直接戳我进行预览哦~</a>
+<a href="https://wwp123.github.io/Tag/" target="_blank">直接戳我进行预览哦~</a>
 
 ### 使用步骤
 
